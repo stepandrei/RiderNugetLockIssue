@@ -51,7 +51,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Newtonsoft.Json >= 13.0.3"
+      "Newtonsoft.Json >= 13.*"
     ]
   },
   "packageFolders": {
@@ -103,7 +103,7 @@
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[13.0.3, )"
+            "version": "[13.*, )"
           }
         },
         "imports": [

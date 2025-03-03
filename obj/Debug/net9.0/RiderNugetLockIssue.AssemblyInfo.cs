@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RiderNugetLockIssue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e838d4a00d3b5dac99e2ebbd7500621a14c0d07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c4a9aa0ae1508ffb605231ebd86b8d29e62d98")]
 [assembly: System.Reflection.AssemblyProductAttribute("RiderNugetLockIssue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RiderNugetLockIssue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
